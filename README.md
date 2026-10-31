@@ -2,8 +2,8 @@
 **Peter Emebo** | Python • SQL • PyTorch • Data Pipelines • Hardware Optimization
 
 ## Feature Project: Edge AI Cassava Leaf Disease Classifier (ARM Target)
-![Image 1](Screenshot%202026-03-15%20224224.png) ![Image 2](Screenshot%202026-03-16%20085536.png) ![Image 3](Screenshot%202026-03-28%20221856.png) 
-![Image 4](Screenshot%202026-04-18%20160609.png) ![Image 5](Screenshot 2026-04-15 153727.png)
+![Image 1](Screenshot%202026-03-15%20224224.png) ![Image 2](Screenshot%202026-03-16%20085536.png) ![Image 3](Screenshot%202026-03-28%20221856.png) ![Image 4](Screenshot%202026-04-18%20160609.png) ![Image 5](Screenshot%202026-04-15%20153727.png)
+
 
 **Project Type:** Machine Learning & Internet of Things (ML/IoT) | **Timeline:** Apr 2026 – Jun 2026
 
